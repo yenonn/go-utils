@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yenonn/go-utils/collection"
+	"github.com/yenonn/go-utils/pkg/collection"
 )
 
 func main() {
